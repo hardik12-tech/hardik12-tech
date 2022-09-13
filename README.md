@@ -3,12 +3,12 @@
 [![Portfolio Badge](https://img.shields.io/badge/-@_Hardikvyas-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@hardik280399)](https://medium.com/@hardik280399)
 [![Gmail Badge](https://img.shields.io/badge/-Hardikvyas-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hardik280399@gmail.com)](mailto:hardik280399@gmail.com)
 ### Welcome to my profile!
-#### <p>“I am Hardik Vyas,I'm currently doing my BE in Srez Engineering college (Rajkot).</p>
+#### <p>“I am Hardik Vyas,I Have Completed BE from Srez Engineering college (Rajkot).</p>
 ### <i>Full stack developer</i>
 <br/>
 
-- 🥅 2020 Goals: make better profile for future
-- 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
+- 🥅 i have completed my training as front-end Developer(Reactjs)
+- 🌱 I’m Learning MERN.
 
 #### *To know more about me visit my [portfolio]( )*
 
